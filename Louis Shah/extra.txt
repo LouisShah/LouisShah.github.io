@@ -1,0 +1,11 @@
+<img src="./Set_photos/Facephoto2.png" alt="Myself" style="width:128px;height:128px;" img align ="left">
+
+
+
+<style>
+body {
+  background-image: url('/Set_Photos/Img_0484.jpg');
+  background-repeat: no-repeat;
+  background-position: middle;
+  }
+</style>
