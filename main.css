@@ -54,24 +54,24 @@ section {
   text-shadow: 2px 2px 3px black;
 }
 
-.section-top-content {
+.section-hero-content {
   position: relative;
   top: 40%;
   top: calc(50% - 20rem);
 }
 
-.section-top-content-initials {
+.section-hero-content-initials {
   font-family: 'Unica One', 'Helvetica Neue', 'Arial', sans-serif;
   font-size: 10em;
   line-height: 0.8em;
 }
 
-.section-top-content-name {
+.section-hero-content-name {
   margin: 0 auto 24px;
   width: 80%;
 }
 
-.section-top-content-greeting {
+.section-hero-content-greeting {
   margin: 0 auto;
   width: 80%;
 }
@@ -160,7 +160,7 @@ section {
   padding: 80px 0;
 }
 
-#section-projects {
+#section-photos {
   background-color: ivory;
   color: black;
   padding: 80px 0;
