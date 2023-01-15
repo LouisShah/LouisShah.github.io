@@ -42,8 +42,8 @@ section {
   text-align: center;
 }
 
-#section-top {
-  background-image: url('../img/alps.jpg');
+#section-hero {
+  background-image: url('./Set_Photos/IMG_0484.JPG');
   background-position: center center;
   background-size: cover;
   color: ivory;
