@@ -47,7 +47,7 @@ section {
   background-position: center center;
   background-size: cover;
   color: ivory;
-  height: 30em;
+  height: 0em;
   height: calc(100vh - 50px);
   margin-top: 0px;
   position: relative;
