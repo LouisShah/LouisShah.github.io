@@ -46,10 +46,6 @@ section {
   background-image: url('./Set_Photos/IMG_0484.JPG');
   background-position: center center;
   background-size: cover;
-  color: ivory;
-  height: 30em;
-  height: calc(100vh - 50px);
-  margin-top: 50px;
   position: relative;
   text-shadow: 2px 2px 3px black;
 }
