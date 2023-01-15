@@ -49,13 +49,13 @@ section {
   color: ivory;
   height: 30em;
   height: calc(100vh - 50px);
-  margin-top: 50px;
+  margin-top: -20px;
   position: relative;
   text-shadow: 2px 2px 3px black;
 }
 
 .section-hero-content {
-  position: relative;
+  position: top;
   top: 4%;
   top: calc(50% - 20rem);
 }
@@ -178,7 +178,7 @@ section {
 }
 
 .section-projects-tile-overlay {
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(0,0,0,0);
   bottom: 0;
   color: ivory;
   left: 0;
