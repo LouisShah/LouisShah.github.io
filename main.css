@@ -161,7 +161,7 @@ section {
 }
 
 #section-photos {
-  background-image: url('./Set_Photos/IMG_0484.JPG');
+  background-image: url('./Set_Photos/IMG_0497.JPG');
   background-position: center center;
   background-size: cover;
   color: black;
@@ -217,7 +217,7 @@ section {
 }
 
 #section-contact {
-  background-color: #366;
+  background-color: #222;
   color: ivory;
   padding: 80px 0;
 }
@@ -228,6 +228,6 @@ section {
 
 #section-footer {
   background-color: #222;
-  color: #9d9d9d;
+  color: ivory;
   padding: 30px 0 20px;
 }
