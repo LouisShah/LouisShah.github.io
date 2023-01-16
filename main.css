@@ -161,8 +161,15 @@ section {
 }
 
 #section-photos {
-  background-color: ivory;
+  background-image: url('./Set_Photos/IMG_0484.JPG');
+  background-position: center center;
+  background-size: cover;
   color: black;
+  height: 30em;
+  height: calc(100vh - 50px);
+  margin-top: -20px;
+  position: relative;
+  text-shadow: 2px 2px 3px black;
   padding: 80px 0;
 }
 
