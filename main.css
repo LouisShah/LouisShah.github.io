@@ -7,7 +7,7 @@
   font-size: 1em;
 }
 
-.navbar-nav > li >  a:focus {
+.navbar-nav>li>a:focus {
   color: #9d9d9d !important;
 }
 
@@ -43,7 +43,7 @@ section {
 }
 
 #section-hero {
-  background-image: url('./Set_Photos/IMG_0484.JPG');
+  background-image: url('./set_photos/img_0484.jpg');
   background-position: center center;
   background-size: cover;
   color: black;
@@ -113,6 +113,7 @@ section {
   from {
     top: -0.5em;
   }
+
   to {
     top: -1em;
   }
@@ -156,12 +157,12 @@ section {
 
 .section-tools-background-mask {
   background-color: #365;
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(0, 0, 0, 0.5);
   padding: 80px 0;
 }
 
 #section-photos {
-  background-image: url('./Set_Photos/IMG_1574.JPG');
+  background-image: url('./set_photos/img_1574.jpg');
   background-position: center center;
   background-size: cover;
   color: black;
@@ -185,7 +186,7 @@ section {
 }
 
 .section-projects-tile-overlay {
-  background-color: rgba(0,0,0,0);
+  background-color: rgba(0, 0, 0, 0);
   bottom: 0;
   color: ivory;
   left: 0;
