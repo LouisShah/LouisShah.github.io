@@ -3,6 +3,10 @@
 <img class="section-about-image" src="Instagram-Icon.png" alt="IG" height="50" width="50" />
 <p class="center"><a href="https://www.instagram.com/louis_shah/" target="https://www.instagram.com/louis_shah/">INSTAGRAM</a></p>
 
+     <video id="background-video" autoplay loop muted >
+      <source src="https://i.imgur.com/I2do145.mp4" type="video/mp4">
+     </video>
+
 
 <style>
 body {
